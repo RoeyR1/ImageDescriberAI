@@ -1,1 +1,1 @@
-# ImageDescriberAI
+# ImageAnalyzerAI
