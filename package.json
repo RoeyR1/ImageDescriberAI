@@ -1,7 +1,7 @@
 {
-    "name": "image-describer-ai",
+    "name": "image-assistant-ai",
     "version": "1.0.0",
-    "description": "AI-powered image description tool",
+    "description": "AI-powered image analysis tool",
     "type": "module",
     "scripts": {
         "dev": "vite",

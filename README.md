@@ -1,4 +1,4 @@
-# Image Analyzer AI
+# Image Assistant AI
 
 A web app for analyzing images with natural language. Upload a photo, ask a question, and get clear, contextual answers powered by Google's Gemini multimodal AI. The app runs entirely in the browser for a fast, simple workflow.
 
@@ -31,8 +31,8 @@ A web app for analyzing images with natural language. Upload a photo, ask a ques
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/RoeyR1/ImageAnalyzerAI.git
-   cd ImageAnalyzerAI
+   git clone https://github.com/RoeyR1/ImageAssistantAI.git
+   cd ImageAssistantAI
    ```
 
 2. **Install dependencies**:
